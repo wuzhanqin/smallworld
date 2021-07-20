@@ -1,0 +1,1 @@
+"G:\App\微信web\微信web开发者工具\cli.bat" cloud functions deploy --e small-world-9gujidf11f068ef8 --n quickstartFunctions --r --project "E:\S.AS2020CX-02\myWorld\smallworld" --report
